@@ -17,7 +17,7 @@ CryptoTranscript deals with Blockchain based digital transcripts to the Universi
 2. Traverse to project directory in terminal / command prompt 
 3. Once you are in the project directory, run the command `gradlew run`
 4. The warnings and 80% [Executing] can safely be ignored
-5. Open the CryptoTranscript.html which is in the parent directory.
+5. Open the index.html which is in the parent directory.
 
 
 ## API Information
