@@ -1,0 +1,62 @@
+#banner{
+  background-color:#848484;
+  width:100%;
+  height: 50px;
+  color: white;
+
+ 
+
+}
+
+ 
+
+#banner_text{
+  color:white;
+  position:relative;
+  top:10px;
+ text-align: center;
+  font-size: 30px;
+  font-family:sans-serif;
+}
+.block{
+  float:left;
+ background-color: gray;
+width: 220px;
+		height: 220px;
+		padding: 5px;
+    border: 2.5px solid black;
+    margin: 10px;
+  
+
+}
+
+.file{
+  background-color: lightgray;
+display:inline-block;
+width:220px;
+ 		height: 60px;
+ 		border: 1px solid black;
+}
+
+.shaparent{
+  background-color:grey;
+display:inline-block;
+width:220px;
+   height: 60px;
+   border: 1px solid black;
+   word-wrap: break-word;
+}
+
+.shacurrent{
+  background-color: lightgray;
+display:inline-block;
+width:220px;
+   height: 60px;
+   border: 1px solid black;
+   word-wrap: break-word;
+}
+
+#minebutton{
+  top: 50px;
+  left: 150px
+}
